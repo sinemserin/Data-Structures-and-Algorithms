@@ -1,3 +1,7 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
 We take 7 roots.
 5 is added. Since 5 is less than 7, it is written to the left of 7.
 1 is added. Since 1 is less than 7 and less than 5, it is written to the left of 5.
