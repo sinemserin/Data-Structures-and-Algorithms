@@ -1,0 +1,10 @@
+We take 7 roots.
+5 is added. Since 5 is less than 7, it is written to the left of 7.
+1 is added. Since 1 is less than 7 and less than 5, it is written to the left of 5.
+Add 8. Since 8 is greater than 7, it is written to the right of the root.
+Add 3. Since 3 is less than 7 and less than 5, but greater than 1, it is written to the right of 1.
+Add 6. Since 6 is less than 7 and less than 8, but greater than 5, it is written to the right of 5.
+Add 0. Since 0 is less than 7, less than 5 and less than 1, it is written to the left of 1.
+Add 9. Since 9 is greater than 7 and greater than 8, it is written to the right of 8.
+Add 4. Since 4 is less than 7, less than 5 and less than 3, but greater than 1, it is written to the right of 3.
+Add 2. Since 2 is less than 7, less than 5 and less than 3, but greater than 1, we go to the lower right tree of 1. Since 3 is to the right of 1, 2 is less than 3, so it is written to the left of 3.
